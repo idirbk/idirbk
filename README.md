@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @idirbk
-- 👀 I’m interested in **Dev**
-- 🌱 I’m currently learning **programming language**
+- 👀 I’m interested in **software engineering**
+- 🌱 I’m currently learning **Web development and IoT**
 - 💞️ I am looking to collaborate on development projects
-- 📫 How to reach me in [idir.boukari@universite-paris-saclay.fr]
+- 📫 How to reach me in [idir.boukari@outlook.fr]
 
 <!---
 idirbk/idirbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
